@@ -1,4 +1,4 @@
-package main
+package rsa_sig
 
 import (
 	"crypto"

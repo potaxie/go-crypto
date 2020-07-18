@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="505cfe62-e943-4434-a946-4b45969511ff" name="Default Changelist" comment="" />
+    <list default="true" id="505cfe62-e943-4434-a946-4b45969511ff" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/go-crypto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eccPrivate.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eccPublic.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/eccPrivate.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/eccPublic.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/椭圆曲线签名和认证.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rsa_sig/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/RSA签名和认证.go" beforeDir="false" afterPath="$PROJECT_DIR$/rsa_sig/RSA签名和认证.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/private.pem" beforeDir="false" afterPath="$PROJECT_DIR$/rsa_sig/private.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/public.pem" beforeDir="false" afterPath="$PROJECT_DIR$/rsa_sig/public.pem" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,34 +42,41 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1eZJJrPfluW1ssnrp9saPOqGctY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/main" />
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/main" />
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build main/">
-    <configuration name="go build 消息认真码.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 椭圆曲线签名和认证.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-crypto" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/main/消息认真码.go" />
+      <filePath value="$PROJECT_DIR$/main/椭圆曲线签名和认证.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build main/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -81,15 +111,31 @@
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build main/" />
+        <item itemvalue="Go Build.go build 椭圆曲线签名和认证.go" />
         <item itemvalue="Go Build.go build rsa/" />
         <item itemvalue="Go Test.go test main" />
         <item itemvalue="Go Build.go build main.go (1)" />
-        <item itemvalue="Go Build.go build 消息认真码.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="736" y="406" key="#Notifications" timestamp="1594646773309">
@@ -113,29 +159,37 @@
       <screen x="34" y="23" width="1646" height="1027" />
     </state>
     <state x="556" y="182" key="#go_build_非对称加密.go/34.23.1646.1027@34.23.1646.1027" timestamp="1594736323642" />
-    <state width="1602" height="36" key="GridCell.Tab.0.bottom" timestamp="1595068724567">
+    <state width="1602" height="267" key="GridCell.Tab.0.bottom" timestamp="1595078134931">
       <screen x="36" y="23" width="1644" height="1027" />
     </state>
     <state width="1602" height="278" key="GridCell.Tab.0.bottom/34.23.1646.1027@34.23.1646.1027" timestamp="1594824830646" />
     <state width="1602" height="2" key="GridCell.Tab.0.bottom/35.23.1645.1027@35.23.1645.1027" timestamp="1595067924813" />
-    <state width="1602" height="36" key="GridCell.Tab.0.bottom/36.23.1644.1027@36.23.1644.1027" timestamp="1595068724567" />
-    <state width="1602" height="36" key="GridCell.Tab.0.center" timestamp="1595068724567">
+    <state width="1602" height="267" key="GridCell.Tab.0.bottom/36.23.1644.1027@36.23.1644.1027" timestamp="1595078134931" />
+    <state width="1602" height="159" key="GridCell.Tab.0.bottom/38.23.1642.1027@38.23.1642.1027" timestamp="1595074965006" />
+    <state width="1602" height="267" key="GridCell.Tab.0.center" timestamp="1595078134930">
       <screen x="36" y="23" width="1644" height="1027" />
     </state>
     <state width="1602" height="278" key="GridCell.Tab.0.center/34.23.1646.1027@34.23.1646.1027" timestamp="1594824830645" />
     <state width="1602" height="2" key="GridCell.Tab.0.center/35.23.1645.1027@35.23.1645.1027" timestamp="1595067924812" />
-    <state width="1602" height="36" key="GridCell.Tab.0.center/36.23.1644.1027@36.23.1644.1027" timestamp="1595068724567" />
-    <state width="1602" height="36" key="GridCell.Tab.0.left" timestamp="1595068724566">
+    <state width="1602" height="267" key="GridCell.Tab.0.center/36.23.1644.1027@36.23.1644.1027" timestamp="1595078134930" />
+    <state width="1602" height="159" key="GridCell.Tab.0.center/38.23.1642.1027@38.23.1642.1027" timestamp="1595074965005" />
+    <state width="1602" height="267" key="GridCell.Tab.0.left" timestamp="1595078134930">
       <screen x="36" y="23" width="1644" height="1027" />
     </state>
     <state width="1602" height="278" key="GridCell.Tab.0.left/34.23.1646.1027@34.23.1646.1027" timestamp="1594824830645" />
     <state width="1602" height="2" key="GridCell.Tab.0.left/35.23.1645.1027@35.23.1645.1027" timestamp="1595067924809" />
-    <state width="1602" height="36" key="GridCell.Tab.0.left/36.23.1644.1027@36.23.1644.1027" timestamp="1595068724566" />
-    <state width="1602" height="36" key="GridCell.Tab.0.right" timestamp="1595068724567">
+    <state width="1602" height="267" key="GridCell.Tab.0.left/36.23.1644.1027@36.23.1644.1027" timestamp="1595078134930" />
+    <state width="1602" height="159" key="GridCell.Tab.0.left/38.23.1642.1027@38.23.1642.1027" timestamp="1595074965004" />
+    <state width="1602" height="267" key="GridCell.Tab.0.right" timestamp="1595078134931">
       <screen x="36" y="23" width="1644" height="1027" />
     </state>
     <state width="1602" height="278" key="GridCell.Tab.0.right/34.23.1646.1027@34.23.1646.1027" timestamp="1594824830646" />
     <state width="1602" height="2" key="GridCell.Tab.0.right/35.23.1645.1027@35.23.1645.1027" timestamp="1595067924813" />
-    <state width="1602" height="36" key="GridCell.Tab.0.right/36.23.1644.1027@36.23.1644.1027" timestamp="1595068724567" />
+    <state width="1602" height="267" key="GridCell.Tab.0.right/36.23.1644.1027@36.23.1644.1027" timestamp="1595078134931" />
+    <state width="1602" height="159" key="GridCell.Tab.0.right/38.23.1642.1027@38.23.1642.1027" timestamp="1595074965005" />
+    <state x="459" y="276" key="Vcs.Push.Dialog.v2" timestamp="1595068771222">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state x="459" y="276" key="Vcs.Push.Dialog.v2/36.23.1644.1027@36.23.1644.1027" timestamp="1595068771222" />
   </component>
 </project>
