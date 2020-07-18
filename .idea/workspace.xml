@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="505cfe62-e943-4434-a946-4b45969511ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.13.4/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eZJJrPfluW1ssnrp9saPOqGctY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main/">
+    <configuration name="go build 消息认真码.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-crypto" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/消息认真码.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-crypto" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/main" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-crypto" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build rsa/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-crypto" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/rsa" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-crypto" />
+      <working_directory value="$PROJECT_DIR$/main" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/main" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main/" />
+        <item itemvalue="Go Build.go build rsa/" />
+        <item itemvalue="Go Test.go test main" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build 消息认真码.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="736" y="406" key="#Notifications" timestamp="1594646773309">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state x="736" y="406" key="#Notifications/36.23.1644.1027@36.23.1644.1027" timestamp="1594646773309" />
+    <state x="555" y="182" key="#go_build_main.go" timestamp="1594735707873">
+      <screen x="34" y="23" width="1646" height="1027" />
+    </state>
+    <state x="555" y="182" key="#go_build_main.go/34.23.1646.1027@34.23.1646.1027" timestamp="1594735707873" />
+    <state x="556" y="182" key="#go_build_main.go/36.23.1644.1027@36.23.1644.1027" timestamp="1594650017340" />
+    <state x="556" y="182" key="#go_build_main.go_(1)" timestamp="1594991909376">
+      <screen x="35" y="23" width="1645" height="1027" />
+    </state>
+    <state x="556" y="182" key="#go_build_main.go_(1)/35.23.1645.1027@35.23.1645.1027" timestamp="1594991909376" />
+    <state x="556" y="182" key="#go_build_消息认真码.go" timestamp="1594991902952">
+      <screen x="35" y="23" width="1645" height="1027" />
+    </state>
+    <state x="556" y="182" key="#go_build_消息认真码.go/35.23.1645.1027@35.23.1645.1027" timestamp="1594991902952" />
+    <state x="556" y="182" key="#go_build_非对称加密.go" timestamp="1594736323642">
+      <screen x="34" y="23" width="1646" height="1027" />
+    </state>
+    <state x="556" y="182" key="#go_build_非对称加密.go/34.23.1646.1027@34.23.1646.1027" timestamp="1594736323642" />
+    <state width="1602" height="36" key="GridCell.Tab.0.bottom" timestamp="1595068724567">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state width="1602" height="278" key="GridCell.Tab.0.bottom/34.23.1646.1027@34.23.1646.1027" timestamp="1594824830646" />
+    <state width="1602" height="2" key="GridCell.Tab.0.bottom/35.23.1645.1027@35.23.1645.1027" timestamp="1595067924813" />
+    <state width="1602" height="36" key="GridCell.Tab.0.bottom/36.23.1644.1027@36.23.1644.1027" timestamp="1595068724567" />
+    <state width="1602" height="36" key="GridCell.Tab.0.center" timestamp="1595068724567">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state width="1602" height="278" key="GridCell.Tab.0.center/34.23.1646.1027@34.23.1646.1027" timestamp="1594824830645" />
+    <state width="1602" height="2" key="GridCell.Tab.0.center/35.23.1645.1027@35.23.1645.1027" timestamp="1595067924812" />
+    <state width="1602" height="36" key="GridCell.Tab.0.center/36.23.1644.1027@36.23.1644.1027" timestamp="1595068724567" />
+    <state width="1602" height="36" key="GridCell.Tab.0.left" timestamp="1595068724566">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state width="1602" height="278" key="GridCell.Tab.0.left/34.23.1646.1027@34.23.1646.1027" timestamp="1594824830645" />
+    <state width="1602" height="2" key="GridCell.Tab.0.left/35.23.1645.1027@35.23.1645.1027" timestamp="1595067924809" />
+    <state width="1602" height="36" key="GridCell.Tab.0.left/36.23.1644.1027@36.23.1644.1027" timestamp="1595068724566" />
+    <state width="1602" height="36" key="GridCell.Tab.0.right" timestamp="1595068724567">
+      <screen x="36" y="23" width="1644" height="1027" />
+    </state>
+    <state width="1602" height="278" key="GridCell.Tab.0.right/34.23.1646.1027@34.23.1646.1027" timestamp="1594824830646" />
+    <state width="1602" height="2" key="GridCell.Tab.0.right/35.23.1645.1027@35.23.1645.1027" timestamp="1595067924813" />
+    <state width="1602" height="36" key="GridCell.Tab.0.right/36.23.1644.1027@36.23.1644.1027" timestamp="1595068724567" />
+  </component>
+</project>
